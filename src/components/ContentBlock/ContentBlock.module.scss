@@ -1,0 +1,15 @@
+.cover {
+  min-height: 100vh;
+  background-color: #fff;
+
+  .wrap {
+    position: relative;
+    z-index: 1;
+    padding: 100px 16px;
+    max-width: 1024px;
+  }
+
+  .content {
+    font-size: 20vh;
+  }
+}
